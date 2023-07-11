@@ -27,7 +27,7 @@ def wishMe():
         speak("Good Evening!")
 
     speak("I am Steve Sir. Please tell me how may I help you.") # AI intro.
-
+#lecture 11-7-23
 def takeCommand():
     '''It takes microphone input from the user and returns string output.'''
 
