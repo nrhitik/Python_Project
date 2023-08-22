@@ -1,4 +1,5 @@
 #lecture 10-7-23
+# lecture 2
 import pyttsx3
 import datetime
 
